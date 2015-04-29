@@ -1,0 +1,11 @@
+{
+  "name": "bits",
+  "version": "0.0.1",
+  "description": "A WIP point & click adventure engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fearful",
+  "license": "ISC"
+}
